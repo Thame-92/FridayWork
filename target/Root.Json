@@ -1,0 +1,15 @@
+{
+	"name": "Thameem",
+	"age": 31,
+	"status": true,
+	"address": {
+		"city": "Chennai",
+		"state": "Tamil Nadu",
+		"country": "India"
+	},
+	"courses": [
+		"Java",
+		"Python",
+		"Selenium"
+	]
+}
